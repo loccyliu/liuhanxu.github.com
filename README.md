@@ -1,7 +1,7 @@
-# 刘汉旭 Liu Hanxu
+ut # 刘汉旭 Liu Hanxu
 
 ### 个人信息
-<img src="lhx.jpg"  alt="刘汉旭" align="right"/>
+
 - 男
 - 1991-5-14
 - 江西·赣州
@@ -20,10 +20,11 @@
 - 1 年以上 Unity3d游戏开发经验
 - 掌握面向对象编程思想，能够熟练使用
 - 熟悉Unity3D游戏引擎的游戏开发；了解Unity3d开发中的一些优化方法以及Unity和其他平台的混合编程
-- 熟悉使用Unity3D的界面插件nGUI，以及其他的一些插件(iTween、UniDatabase等等)
+- 熟悉Unity3D的UI设计，熟悉NGUI中各种控件的制作和使用
+- 熟悉Unity一些插件，如2D Toolkit、iTween、UniDatabase等等
 - 熟悉iOS平台，熟悉iOS/Mac OS等操作系统，能够熟练使用Xcode编程
 - 熟悉SQL Sever数据库设计与应用
-- 理解面向对象设计的基本原则，熟悉常用的设计模式
+- 理解面向对象设计的基本原则，常用的设计模式
 - 熟悉Photon服务器引擎，熟悉MMO的服务器架构以及和Unity3D的交互
 - 了解iOS中网络数据的解析，能熟练解析JSON、XML数据
 - 熟练使用SVN、 git、AssetServer 等代码版本控制工具
